@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Смолда</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_feed_view">Новости</string>
+
+    <string name="company_name"></string>
+
+    <bool name="important_only">false</bool>
+    <string name="title_activity_setting">Настройки</string>
+</resources>
